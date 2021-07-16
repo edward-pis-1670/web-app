@@ -46,3 +46,16 @@ header a {
     font-size: 30px;
     font-weight: 500;
 }
+
+input {
+    border: 1px solid #cccc;
+    padding: 8px
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid #8888;
+    background-color: #8888;
+    color: white;
+    padding: 8px;
+}
